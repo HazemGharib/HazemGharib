@@ -1,4 +1,4 @@
-### Hi, I'm Hazem, a developer who comes from the land of mysteries, Egypt. And works at ServiceRocket too 🚀 !
+### Hi, I'm Hazem, a developer who's from the land of mysteries, Egypt. And works at ServiceRocket too 🚀 !
 
 <p>
   <img src="http://views.whatilearened.today/views/github/HazemGharib/views.svg"/>
