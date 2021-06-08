@@ -26,7 +26,7 @@
 <br />
 - 💻 I’m currently working on EPL Fantasy API that is used in [this app](https://epl-fantasy-app.herokuapp.com), feel free to reach out to me to give it a try
 - 💻 Wanna get some movie recommendations? Try [this](https://app-movie-recommender.herokuapp.com/)
-- 💻 Interested in MBC chennels schedule? Give this a [try](https://mbc-schedule.herokuapp.com/)
+- 💻 Interested in MBC chennels schedule? Give [this](https://mbc-schedule.herokuapp.com/) a try
 - 🌱 I’m learning GitHub Actions 
 - 💬 Ask me about anything, I'd be happy to help
 - 💡 An enthusiast for Flutter and a big fan of Vue
