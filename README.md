@@ -1,4 +1,4 @@
-### Hi, I'm Hazem, a developer who's from the land of mysteries, Egypt. And works at ServiceRocket too 🚀 !
+### Hi, I'm Hazem, an Egyptian full stack engineer staying in Malaysia and working at ServiceRocket 🚀 !
 
 <p>
   <img src="http://views.whatilearened.today/views/github/HazemGharib/views.svg"/>
@@ -24,8 +24,10 @@
 **Talking about Personal Stuffs:**
 <img width="20%" align="right" alt="Hazem " src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=Black&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=Hoodie&clotheColor=Blue03&eyeType=Wink&eyebrowType=UpDownNatural&mouthType=Smile&skinColor=Light' />
 <br />
-- 💻 I’m currently working on Fantasy API that is used in here https://epl-fantasy-app.herokuapp.com, feel free to reach out to me to give it a try
-- 🌱 I’m learning Jenkins and CircleCI 
+- 💻 I’m currently working on EPL Fantasy API that is used in [this app](https://epl-fantasy-app.herokuapp.com), feel free to reach out to me to give it a try
+- 💻 Wanna get some movie recommendations? Try [this](https://app-movie-recommender.herokuapp.com/)
+- 💻 Interested in MBC chennels schedule? Give this a [try](https://mbc-schedule.herokuapp.com/)
+- 🌱 I’m learning GitHub Actions 
 - 💬 Ask me about anything, I'd be happy to help
 - 💡 An enthusiast for Flutter and a big fan of Vue
 - ⚡️ Fun-Fact #1: I have a degree in Electrical engineering
