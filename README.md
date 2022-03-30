@@ -36,6 +36,59 @@
 
 ---
 
+# Hall of fame
+Those are some of my notable work and side projects during the past few years.
+
+## NPM packages
+### [vue-page-links](https://www.npmjs.com/package/vue-page-links)
+    A vue component to get all links on a page.
+
+### [zuka](https://www.npmjs.com/package/zuka)
+    A simple hello world library that console log whatever is passed in.
+
+---
+
+## Notable projects
+### [Security & Encryption for Confluence Cloud](https://devpost.com/software/security-encryption-for-confluence-cloud)
+    A Confluence Cloud app to securely store secrets (passwords, bank accounts, credit card
+    numbers, API tokens, etc.) using a macro in Confluence to encrypt and decrypt, store,
+    manage and audit access to all of that.
+
+### [Linking for Confluence Cloud](https://marketplace.atlassian.com/apps/166/linking-for-confluence?hosting=cloud)
+    A Confluence Cloud app that provides macros to create one-click links that generate
+    structured content via templates, create naming conventions for your content, and manage
+    connections between pages.
+
+### [Connexa](https://www.omnia-health.com/product/connexa)
+    A multi-entity, bilingual RIS (Radiology Information System) that givies full control over
+    all facility resources such as medical imagiry and patient health records.
+
+---
+
+## Notable side projects [Private Repos]
+### [EPL Fantasy App](https://epl-fantasy-app.herokuapp.com/)
+    A web app/PWA for the "English Premiere League" statistics, scores and the one and only,
+    "Fantasy Premiere League" game.
+
+### [EPL Fantasy API](https://epl-fantasy.herokuapp.com/)
+    A secure, extensive, ready for market API that feeds the EPL Fantasy App.
+
+### [Postee](https://app-postee.herokuapp.com/) [Built with static data]
+    The latest 1-day-play side project created while exploring Svelte framework 
+
+### [Zudo](https://zudo.herokuapp.com/)
+    A nice looking to-do Vue web app/WPA that I created for my fiance!! 
+
+### [YRWO](https://yrwo.herokuapp.com/) [Knowledge transfer side project]
+<pre>A website for Yemni refugees women organization in Kuala Lumpur that was done in co-operation with
+my one and only 16-years old cousin, <a href="https://github.com/Boody2004">Abd El Rahman</a>!</pre>
+
+### [Movie Recommender](https://app-movie-recommender.herokuapp.com/)
+	An early VueJS learning side project that recommends movies according to specific genres,
+	as wel as listing the top rated movies of all time.
+
+---
+
 <br />
 
 **Languages and Tools:** 
