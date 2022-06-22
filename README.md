@@ -77,7 +77,7 @@ Those are some of my notable work and side projects during the past few years.
     The latest 1-day-play side project created while exploring Svelte framework 
 
 ### [Zudo](https://zudo.herokuapp.com/)
-    A nice looking to-do Vue web app/WPA that I created for my fiance!! 
+    A nice looking to-do Vue web app/WPA that I created for my wife!! 
 
 ### [YRWO](https://yrwo.herokuapp.com/) [Knowledge transfer side project]
 <pre>A website for Yemni refugees women organization in Kuala Lumpur that was done in co-operation with
