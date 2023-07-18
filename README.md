@@ -1,4 +1,4 @@
-### Hi, I'm Hazem, an Egyptian full stack engineer staying in Malaysia and working at ServiceRocket 🚀 !
+### Hi, I'm Hazem, an Egyptian something something engineer staying in Malaysia who's working at SEEK ASIA ➡
 
 <p>
   <img src="http://views.whatilearened.today/views/github/HazemGharib/views.svg"/>
@@ -21,18 +21,7 @@
   <img src="https://img.shields.io/badge/OS-Ubuntu-dd4814"/>
 </p>
 
-**Talking about Personal Stuffs:**
 <img width="20%" align="right" alt="Hazem " src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=Black&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=Hoodie&clotheColor=Blue03&eyeType=Wink&eyebrowType=UpDownNatural&mouthType=Smile&skinColor=Light' />
-<br />
-- 💻 I’m currently working on EPL Fantasy API that is used in [this app](https://epl-fantasy-app.herokuapp.com), feel free to reach out to me to give it a try
-- 💻 Wanna get some movie recommendations? Try [this](https://app-movie-recommender.herokuapp.com/)
-- 💻 Interested in MBC channels schedule? Give [this](https://mbc-schedule.herokuapp.com/) a try
-- 🌱 I’m learning GitHub Actions 
-- 💬 Ask me about anything, I'd be happy to help
-- 💡 An enthusiast for Flutter and a big fan of Vue
-- ⚡️ Fun-Fact #1: I have a degree in Electrical engineering
-- ⚡️ Fun-Fact #2: I am a Chelsea fan
-<br />
 
 ---
 
@@ -44,7 +33,7 @@ Those are some of my notable work and side projects during the past few years.
     A vue component to get all links on a page.
 
 ### [zuka](https://www.npmjs.com/package/zuka)
-    A simple hello world library that console log whatever is passed in.
+    My first simple hello world library that console log whatever is passed in.
 
 ---
 
@@ -66,24 +55,24 @@ Those are some of my notable work and side projects during the past few years.
 ---
 
 ## Notable side projects [Private Repos]
-### [EPL Fantasy App](https://epl-fantasy-app.herokuapp.com/)
+### [EPL Fantasy App]()
     A web app/PWA for the "English Premiere League" statistics, scores and the one and only,
     "Fantasy Premiere League" game.
 
-### [EPL Fantasy API](https://epl-fantasy.herokuapp.com/)
+### [EPL Fantasy API]()
     A secure, extensive, ready for market API that feeds the EPL Fantasy App.
 
-### [Postee](https://app-postee.herokuapp.com/) [Built with static data]
+### [Postee]() [Built with static data]
     The latest 1-day-play side project created while exploring Svelte framework 
 
-### [Zudo](https://zudo.herokuapp.com/)
+### [Zudo]()
     A nice looking to-do Vue web app/WPA that I created for my wife!! 
 
-### [YRWO](https://yrwo.herokuapp.com/) [Knowledge transfer side project]
+### [YRWO]() [Knowledge transfer side project]
 <pre>A website for Yemni refugees women organization in Kuala Lumpur that was done in co-operation with
 my one and only 16-years old cousin, <a href="https://github.com/Boody2004">Abd El Rahman</a>!</pre>
 
-### [Movie Recommender](https://app-movie-recommender.herokuapp.com/)
+### [Movie Recommender]()
 	An early VueJS learning side project that recommends movies according to specific genres,
 	as wel as listing the top rated movies of all time.
 
@@ -94,10 +83,6 @@ my one and only 16-years old cousin, <a href="https://github.com/Boody2004">Abd 
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="right" width="45%" height="165" src="https://github-readme-stats.vercel.app/api?username=HazemGharib&show_icons=true&hide_border=false&line_height=20&title_color=0a4595&icon_color=0a4595&show_owner=true"/>
-  </a>
-  
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
