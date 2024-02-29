@@ -80,9 +80,9 @@ my one and only 16-years old cousin, <a href="https://github.com/Boody2004">Abd 
 **Languages and Tools:** 
 
 <p>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
   <br />
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
