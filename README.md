@@ -3,9 +3,6 @@
 <p>
   <img src="http://views.whatilearened.today/views/github/HazemGharib/views.svg"/>
   <a href="https://github.com/HazemGharib/">
-    <img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fwww.hazem-gharib.net%2F"/>
-  </a>
-  <a href="https://github.com/HazemGharib/">
     <img src="https://img.shields.io/github/followers/HazemGharib?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
   </a>
   <a href="https://github.com/HazemGharib?tab=repositories">
@@ -13,11 +10,9 @@
   </a> 
   <a href="mailto:hazem.gharib.8@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Hazem%2C%0A%0AI wanted to ask you about ...">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+  <img src="https://img.shields.io/badge/Front%20End-ReactJS-61DBFB"/>
   <img src="https://img.shields.io/badge/Front End-Vue.js-42b883"/>
-  <img src="https://img.shields.io/badge/Front%20End-Angular2+-ed8094"/>
   <img src="https://img.shields.io/badge/Back%20End-Node.js-83af26"/>
-  <img src="https://img.shields.io/badge/Back%20End-.Net-bc8bf4"/>
-  <img src="https://img.shields.io/badge/Back%20End-Java-f8981d"/>
   <img src="https://img.shields.io/badge/OS-Ubuntu-dd4814"/>
 </p>
 
