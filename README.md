@@ -1,4 +1,6 @@
-### Hi, I'm Hazem, an Egyptian something something engineer staying in Malaysia who's working at SEEK ASIA ➡
+# Hazem Gharib (n.)
+##### [ħæ.zem ɣa.ri:b]
+## An Egyptian something something engineer who's working at SEEK ASIA ➡ and has the ability to turn coffe ☕️ to code 💻
 
 <p>
   <img src="http://views.whatilearened.today/views/github/HazemGharib/views.svg"/>
@@ -16,7 +18,7 @@
   <img src="https://img.shields.io/badge/OS-Ubuntu-dd4814"/>
 </p>
 
-<img width="20%" align="right" alt="Hazem " src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=Black&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=Hoodie&clotheColor=Blue03&eyeType=Wink&eyebrowType=UpDownNatural&mouthType=Smile&skinColor=Light' />
+<img width="200vh" align="centre" alt="Hazem" src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=Black&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=Hoodie&clotheColor=Blue03&eyeType=Wink&eyebrowType=UpDownNatural&mouthType=Smile&skinColor=Light' />
 
 ---
 
